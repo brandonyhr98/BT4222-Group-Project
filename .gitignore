@@ -1,2 +1,4 @@
 *.csv
 *.csv
+master_dataset/True.csv
+master_dataset/Fake.csv
