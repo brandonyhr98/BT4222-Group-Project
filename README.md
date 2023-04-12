@@ -1,7 +1,2 @@
 # BT4222-Group-Project
-
-Dataset files might be too larged for Git to be committed.
-
-Get passed it by downloading Git LFS. 
-
-More instructions can be found on https://git-lfs.com/ 
+Dataset can be found on here : https://drive.google.com/drive/folders/1RZXu0a7pA9d2Wb_Beyo9Xwcr3jV5XGNf?usp=sharing
